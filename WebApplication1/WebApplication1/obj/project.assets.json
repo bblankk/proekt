@@ -8167,9 +8167,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Student\\Downloads\\proekt\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
-      "projectName": "WebApplication1",
-      "projectPath": "C:\\Users\\Student\\Downloads\\proekt\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+      "projectUniqueName": "C:\\Users\\Student\\Downloads\\proekt\\WebApplication1\\WebApplication1\\Theme9.csproj",
+      "projectName": "Theme9",
+      "projectPath": "C:\\Users\\Student\\Downloads\\proekt\\WebApplication1\\WebApplication1\\Theme9.csproj",
       "packagesPath": "C:\\Users\\Student\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Student\\Downloads\\proekt\\WebApplication1\\WebApplication1\\obj\\",
       "projectStyle": "PackageReference",

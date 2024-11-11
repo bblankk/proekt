@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Student\\Downloads\\proekt\\Arrow\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5AD039A1-A3B0-47AE-A7A0-655F30031718}|Arrow\\Arrow.csproj|c:\\users\\student\\downloads\\proekt\\arrow\\arrow\\controllers\\authorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AD039A1-A3B0-47AE-A7A0-655F30031718}|Arrow\\Arrow.csproj|solutionrelative:arrow\\controllers\\authorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AD039A1-A3B0-47AE-A7A0-655F30031718}|Arrow\\Arrow.csproj|c:\\users\\student\\downloads\\proekt\\arrow\\arrow\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AD039A1-A3B0-47AE-A7A0-655F30031718}|Arrow\\Arrow.csproj|solutionrelative:arrow\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AD039A1-A3B0-47AE-A7A0-655F30031718}|Arrow\\Arrow.csproj|c:\\users\\student\\downloads\\proekt\\arrow\\arrow\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AD039A1-A3B0-47AE-A7A0-655F30031718}|Arrow\\Arrow.csproj|solutionrelative:arrow\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AD039A1-A3B0-47AE-A7A0-655F30031718}|Arrow\\Arrow.csproj|c:\\users\\student\\downloads\\proekt\\arrow\\arrow\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AD039A1-A3B0-47AE-A7A0-655F30031718}|Arrow\\Arrow.csproj|solutionrelative:arrow\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AD039A1-A3B0-47AE-A7A0-655F30031718}|Arrow\\Arrow.csproj|c:\\users\\student\\downloads\\proekt\\arrow\\arrow\\models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AD039A1-A3B0-47AE-A7A0-655F30031718}|Arrow\\Arrow.csproj|solutionrelative:arrow\\models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Downloads\\proekt\\Arrow\\Arrow\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Arrow\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Student\\Downloads\\proekt\\Arrow\\Arrow\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Arrow\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T13:27:46.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthorsController.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Downloads\\proekt\\Arrow\\Arrow\\Controllers\\AuthorsController.cs",
+              "RelativeDocumentMoniker": "Arrow\\Controllers\\AuthorsController.cs",
+              "ToolTip": "C:\\Users\\Student\\Downloads\\proekt\\Arrow\\Arrow\\Controllers\\AuthorsController.cs",
+              "RelativeToolTip": "Arrow\\Controllers\\AuthorsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T13:27:34.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Downloads\\proekt\\Arrow\\Arrow\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "Arrow\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\Student\\Downloads\\proekt\\Arrow\\Arrow\\Models\\Book.cs",
+              "RelativeToolTip": "Arrow\\Models\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T13:11:07.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Genre.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Downloads\\proekt\\Arrow\\Arrow\\Models\\Genre.cs",
+              "RelativeDocumentMoniker": "Arrow\\Models\\Genre.cs",
+              "ToolTip": "C:\\Users\\Student\\Downloads\\proekt\\Arrow\\Arrow\\Models\\Genre.cs",
+              "RelativeToolTip": "Arrow\\Models\\Genre.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T13:08:25.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Author.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Downloads\\proekt\\Arrow\\Arrow\\Models\\Author.cs",
+              "RelativeDocumentMoniker": "Arrow\\Models\\Author.cs",
+              "ToolTip": "C:\\Users\\Student\\Downloads\\proekt\\Arrow\\Arrow\\Models\\Author.cs",
+              "RelativeToolTip": "Arrow\\Models\\Author.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T12:58:27.21Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
