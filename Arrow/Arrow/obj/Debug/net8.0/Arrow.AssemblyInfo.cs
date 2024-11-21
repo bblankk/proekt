@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Arrow")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7361fed91ed56ad337f108daa19dcf7fdfb1f592")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7592a31688488d9444cb1215e4f7b2ce050d5444")]
 [assembly: System.Reflection.AssemblyProductAttribute("Arrow")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Arrow")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

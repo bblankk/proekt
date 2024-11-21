@@ -1,58 +1,61 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Student\\Downloads\\proekt\\Arrow\\",
+  "WorkspaceRootPath": "C:\\Users\\PC1-7\\Downloads\\proekt\\Arrow\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5AD039A1-A3B0-47AE-A7A0-655F30031718}|Arrow\\Arrow.csproj|c:\\users\\student\\downloads\\proekt\\arrow\\arrow\\data\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5AD039A1-A3B0-47AE-A7A0-655F30031718}|Arrow\\Arrow.csproj|solutionrelative:arrow\\data\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5AD039A1-A3B0-47AE-A7A0-655F30031718}|Arrow\\Arrow.csproj|c:\\users\\student\\downloads\\proekt\\arrow\\arrow\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5AD039A1-A3B0-47AE-A7A0-655F30031718}|Arrow\\Arrow.csproj|solutionrelative:arrow\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5AD039A1-A3B0-47AE-A7A0-655F30031718}|Arrow\\Arrow.csproj|c:\\users\\student\\downloads\\proekt\\arrow\\arrow\\data\\migrations\\00000000000000_createidentityschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5AD039A1-A3B0-47AE-A7A0-655F30031718}|Arrow\\Arrow.csproj|solutionrelative:arrow\\data\\migrations\\00000000000000_createidentityschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5AD039A1-A3B0-47AE-A7A0-655F30031718}|Arrow\\Arrow.csproj|c:\\users\\student\\downloads\\proekt\\arrow\\arrow\\data\\migrations\\20241111152307_createdb1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5AD039A1-A3B0-47AE-A7A0-655F30031718}|Arrow\\Arrow.csproj|solutionrelative:arrow\\data\\migrations\\20241111152307_createdb1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Student\\Downloads\\proekt\\Arrow\\Arrow\\Data\\Migrations\\20241111152140_CreateDB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Arrow\\Data\\Migrations\\20241111152140_CreateDB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5AD039A1-A3B0-47AE-A7A0-655F30031718}|Arrow\\Arrow.csproj|c:\\users\\student\\downloads\\proekt\\arrow\\arrow\\models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5AD039A1-A3B0-47AE-A7A0-655F30031718}|Arrow\\Arrow.csproj|solutionrelative:arrow\\models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5AD039A1-A3B0-47AE-A7A0-655F30031718}|Arrow\\Arrow.csproj|c:\\users\\student\\downloads\\proekt\\arrow\\arrow\\controllers\\authorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5AD039A1-A3B0-47AE-A7A0-655F30031718}|Arrow\\Arrow.csproj|solutionrelative:arrow\\controllers\\authorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Student\\Downloads\\proekt\\Arrow\\Arrow\\Controllers\\GenresController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Arrow\\Controllers\\GenresController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5AD039A1-A3B0-47AE-A7A0-655F30031718}|Arrow\\Arrow.csproj|c:\\users\\student\\downloads\\proekt\\arrow\\arrow\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5AD039A1-A3B0-47AE-A7A0-655F30031718}|Arrow\\Arrow.csproj|solutionrelative:arrow\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5AD039A1-A3B0-47AE-A7A0-655F30031718}|Arrow\\Arrow.csproj|c:\\users\\student\\downloads\\proekt\\arrow\\arrow\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5AD039A1-A3B0-47AE-A7A0-655F30031718}|Arrow\\Arrow.csproj|solutionrelative:arrow\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5AD039A1-A3B0-47AE-A7A0-655F30031718}|Arrow\\Arrow.csproj|c:\\users\\student\\downloads\\proekt\\arrow\\arrow\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5AD039A1-A3B0-47AE-A7A0-655F30031718}|Arrow\\Arrow.csproj|c:\\users\\pc1-7\\downloads\\proekt\\arrow\\arrow\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5AD039A1-A3B0-47AE-A7A0-655F30031718}|Arrow\\Arrow.csproj|solutionrelative:arrow\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Student\\Downloads\\proekt\\Arrow\\Arrow\\Data\\Migrations\\20241111151759_UpdateDB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Arrow\\Data\\Migrations\\20241111151759_UpdateDB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5AD039A1-A3B0-47AE-A7A0-655F30031718}|Arrow\\Arrow.csproj|c:\\users\\pc1-7\\downloads\\proekt\\arrow\\arrow\\models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AD039A1-A3B0-47AE-A7A0-655F30031718}|Arrow\\Arrow.csproj|solutionrelative:arrow\\models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5AD039A1-A3B0-47AE-A7A0-655F30031718}|Arrow\\Arrow.csproj|c:\\users\\student\\downloads\\proekt\\arrow\\arrow\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{5AD039A1-A3B0-47AE-A7A0-655F30031718}|Arrow\\Arrow.csproj|c:\\users\\pc1-7\\downloads\\proekt\\arrow\\arrow\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AD039A1-A3B0-47AE-A7A0-655F30031718}|Arrow\\Arrow.csproj|solutionrelative:arrow\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AD039A1-A3B0-47AE-A7A0-655F30031718}|Arrow\\Arrow.csproj|c:\\users\\pc1-7\\downloads\\proekt\\arrow\\arrow\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AD039A1-A3B0-47AE-A7A0-655F30031718}|Arrow\\Arrow.csproj|solutionrelative:arrow\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AD039A1-A3B0-47AE-A7A0-655F30031718}|Arrow\\Arrow.csproj|c:\\users\\pc1-7\\downloads\\proekt\\arrow\\arrow\\data\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AD039A1-A3B0-47AE-A7A0-655F30031718}|Arrow\\Arrow.csproj|solutionrelative:arrow\\data\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AD039A1-A3B0-47AE-A7A0-655F30031718}|Arrow\\Arrow.csproj|c:\\users\\pc1-7\\downloads\\proekt\\arrow\\arrow\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AD039A1-A3B0-47AE-A7A0-655F30031718}|Arrow\\Arrow.csproj|solutionrelative:arrow\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AD039A1-A3B0-47AE-A7A0-655F30031718}|Arrow\\Arrow.csproj|c:\\users\\pc1-7\\downloads\\proekt\\arrow\\arrow\\data\\migrations\\00000000000000_createidentityschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AD039A1-A3B0-47AE-A7A0-655F30031718}|Arrow\\Arrow.csproj|solutionrelative:arrow\\data\\migrations\\00000000000000_createidentityschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AD039A1-A3B0-47AE-A7A0-655F30031718}|Arrow\\Arrow.csproj|c:\\users\\pc1-7\\downloads\\proekt\\arrow\\arrow\\data\\migrations\\20241111152307_createdb1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AD039A1-A3B0-47AE-A7A0-655F30031718}|Arrow\\Arrow.csproj|solutionrelative:arrow\\data\\migrations\\20241111152307_createdb1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AD039A1-A3B0-47AE-A7A0-655F30031718}|Arrow\\Arrow.csproj|c:\\users\\pc1-7\\downloads\\proekt\\arrow\\arrow\\controllers\\authorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AD039A1-A3B0-47AE-A7A0-655F30031718}|Arrow\\Arrow.csproj|solutionrelative:arrow\\controllers\\authorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AD039A1-A3B0-47AE-A7A0-655F30031718}|Arrow\\Arrow.csproj|c:\\users\\pc1-7\\downloads\\proekt\\arrow\\arrow\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AD039A1-A3B0-47AE-A7A0-655F30031718}|Arrow\\Arrow.csproj|solutionrelative:arrow\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Student\\Downloads\\proekt\\Arrow\\Arrow\\Data\\Migrations\\20241111151759_UpdateDB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AD039A1-A3B0-47AE-A7A0-655F30031718}|Arrow\\Arrow.csproj|c:\\users\\pc1-7\\downloads\\proekt\\arrow\\arrow\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{5AD039A1-A3B0-47AE-A7A0-655F30031718}|Arrow\\Arrow.csproj|solutionrelative:arrow\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AD039A1-A3B0-47AE-A7A0-655F30031718}|Arrow\\Arrow.csproj|c:\\users\\pc1-7\\downloads\\proekt\\arrow\\arrow\\data\\migrations\\20241111152140_createdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AD039A1-A3B0-47AE-A7A0-655F30031718}|Arrow\\Arrow.csproj|solutionrelative:arrow\\data\\migrations\\20241111152140_createdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AD039A1-A3B0-47AE-A7A0-655F30031718}|Arrow\\Arrow.csproj|c:\\users\\pc1-7\\downloads\\proekt\\arrow\\arrow\\controllers\\genrescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AD039A1-A3B0-47AE-A7A0-655F30031718}|Arrow\\Arrow.csproj|solutionrelative:arrow\\controllers\\genrescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -62,145 +65,90 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\PC1-7\\Downloads\\proekt\\Arrow\\Arrow\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Arrow\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\PC1-7\\Downloads\\proekt\\Arrow\\Arrow\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Arrow\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T13:39:53.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "ApplicationDbContextModelSnapshot.cs",
-              "DocumentMoniker": "C:\\Users\\Student\\Downloads\\proekt\\Arrow\\Arrow\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\PC1-7\\Downloads\\proekt\\Arrow\\Arrow\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "Arrow\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
-              "ToolTip": "C:\\Users\\Student\\Downloads\\proekt\\Arrow\\Arrow\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\PC1-7\\Downloads\\proekt\\Arrow\\Arrow\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
               "RelativeToolTip": "Arrow\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
-              "ViewState": "AgIAALcAAAAAAAAAAAAcwMoAAAA3AAAAAAAAAA==",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAcwMMAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-11T15:23:33.527Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "20241111152307_CreateDB1.cs",
-              "DocumentMoniker": "C:\\Users\\Student\\Downloads\\proekt\\Arrow\\Arrow\\Data\\Migrations\\20241111152307_CreateDB1.cs",
-              "RelativeDocumentMoniker": "Arrow\\Data\\Migrations\\20241111152307_CreateDB1.cs",
-              "ToolTip": "C:\\Users\\Student\\Downloads\\proekt\\Arrow\\Arrow\\Data\\Migrations\\20241111152307_CreateDB1.cs",
-              "RelativeToolTip": "Arrow\\Data\\Migrations\\20241111152307_CreateDB1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-11T15:23:07.877Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 12,
               "Title": "20241111152140_CreateDB.cs",
-              "DocumentMoniker": "C:\\Users\\Student\\Downloads\\proekt\\Arrow\\Arrow\\Data\\Migrations\\20241111152140_CreateDB.cs",
+              "DocumentMoniker": "C:\\Users\\PC1-7\\Downloads\\proekt\\Arrow\\Arrow\\Data\\Migrations\\20241111152140_CreateDB.cs",
               "RelativeDocumentMoniker": "Arrow\\Data\\Migrations\\20241111152140_CreateDB.cs",
-              "ToolTip": "C:\\Users\\Student\\Downloads\\proekt\\Arrow\\Arrow\\Data\\Migrations\\20241111152140_CreateDB.cs",
+              "ToolTip": "C:\\Users\\PC1-7\\Downloads\\proekt\\Arrow\\Arrow\\Data\\Migrations\\20241111152140_CreateDB.cs",
               "RelativeToolTip": "Arrow\\Data\\Migrations\\20241111152140_CreateDB.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-11T15:21:41.005Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "AuthorsController.cs",
-              "DocumentMoniker": "C:\\Users\\Student\\Downloads\\proekt\\Arrow\\Arrow\\Controllers\\AuthorsController.cs",
-              "RelativeDocumentMoniker": "Arrow\\Controllers\\AuthorsController.cs",
-              "ToolTip": "C:\\Users\\Student\\Downloads\\proekt\\Arrow\\Arrow\\Controllers\\AuthorsController.cs",
-              "RelativeToolTip": "Arrow\\Controllers\\AuthorsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-11T15:21:21.579Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "GenresController.cs",
-              "DocumentMoniker": "C:\\Users\\Student\\Downloads\\proekt\\Arrow\\Arrow\\Controllers\\GenresController.cs",
-              "RelativeDocumentMoniker": "Arrow\\Controllers\\GenresController.cs",
-              "ToolTip": "C:\\Users\\Student\\Downloads\\proekt\\Arrow\\Arrow\\Controllers\\GenresController.cs",
-              "RelativeToolTip": "Arrow\\Controllers\\GenresController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-11T15:20:42.518Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "00000000000000_CreateIdentitySchema.cs",
-              "DocumentMoniker": "C:\\Users\\Student\\Downloads\\proekt\\Arrow\\Arrow\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
-              "RelativeDocumentMoniker": "Arrow\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
-              "ToolTip": "C:\\Users\\Student\\Downloads\\proekt\\Arrow\\Arrow\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
-              "RelativeToolTip": "Arrow\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
-              "ViewState": "AgIAAM0AAAAAAAAAAAAAAAsAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-11T15:10:17.507Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Student\\Downloads\\proekt\\Arrow\\Arrow\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "Arrow\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\Student\\Downloads\\proekt\\Arrow\\Arrow\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "Arrow\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-11T15:11:11.226Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-11T15:21:41.005Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "BooksController.cs",
-              "DocumentMoniker": "C:\\Users\\Student\\Downloads\\proekt\\Arrow\\Arrow\\Controllers\\BooksController.cs",
-              "RelativeDocumentMoniker": "Arrow\\Controllers\\BooksController.cs",
-              "ToolTip": "C:\\Users\\Student\\Downloads\\proekt\\Arrow\\Arrow\\Controllers\\BooksController.cs",
-              "RelativeToolTip": "Arrow\\Controllers\\BooksController.cs",
+              "Title": "AuthorsController.cs",
+              "DocumentMoniker": "C:\\Users\\PC1-7\\Downloads\\proekt\\Arrow\\Arrow\\Controllers\\AuthorsController.cs",
+              "RelativeDocumentMoniker": "Arrow\\Controllers\\AuthorsController.cs",
+              "ToolTip": "C:\\Users\\PC1-7\\Downloads\\proekt\\Arrow\\Arrow\\Controllers\\AuthorsController.cs",
+              "RelativeToolTip": "Arrow\\Controllers\\AuthorsController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-11T15:20:09.802Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-11T15:21:21.579Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Book.cs",
-              "DocumentMoniker": "C:\\Users\\Student\\Downloads\\proekt\\Arrow\\Arrow\\Models\\Book.cs",
-              "RelativeDocumentMoniker": "Arrow\\Models\\Book.cs",
-              "ToolTip": "C:\\Users\\Student\\Downloads\\proekt\\Arrow\\Arrow\\Models\\Book.cs",
-              "RelativeToolTip": "Arrow\\Models\\Book.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAkAAAAAAAAAA==",
+              "DocumentIndex": 13,
+              "Title": "GenresController.cs",
+              "DocumentMoniker": "C:\\Users\\PC1-7\\Downloads\\proekt\\Arrow\\Arrow\\Controllers\\GenresController.cs",
+              "RelativeDocumentMoniker": "Arrow\\Controllers\\GenresController.cs",
+              "ToolTip": "C:\\Users\\PC1-7\\Downloads\\proekt\\Arrow\\Arrow\\Controllers\\GenresController.cs",
+              "RelativeToolTip": "Arrow\\Controllers\\GenresController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-11T15:13:26.462Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-11T15:20:42.518Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 0,
               "Title": "Author.cs",
-              "DocumentMoniker": "C:\\Users\\Student\\Downloads\\proekt\\Arrow\\Arrow\\Models\\Author.cs",
+              "DocumentMoniker": "C:\\Users\\PC1-7\\Downloads\\proekt\\Arrow\\Arrow\\Models\\Author.cs",
               "RelativeDocumentMoniker": "Arrow\\Models\\Author.cs",
-              "ToolTip": "C:\\Users\\Student\\Downloads\\proekt\\Arrow\\Arrow\\Models\\Author.cs",
+              "ToolTip": "C:\\Users\\PC1-7\\Downloads\\proekt\\Arrow\\Arrow\\Models\\Author.cs",
               "RelativeToolTip": "Arrow\\Models\\Author.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-11T15:13:32.659Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "Genre.cs",
-              "DocumentMoniker": "C:\\Users\\Student\\Downloads\\proekt\\Arrow\\Arrow\\Models\\Genre.cs",
+              "DocumentMoniker": "C:\\Users\\PC1-7\\Downloads\\proekt\\Arrow\\Arrow\\Models\\Genre.cs",
               "RelativeDocumentMoniker": "Arrow\\Models\\Genre.cs",
-              "ToolTip": "C:\\Users\\Student\\Downloads\\proekt\\Arrow\\Arrow\\Models\\Genre.cs",
+              "ToolTip": "C:\\Users\\PC1-7\\Downloads\\proekt\\Arrow\\Arrow\\Models\\Genre.cs",
               "RelativeToolTip": "Arrow\\Models\\Genre.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -209,29 +157,92 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "20241111151759_UpdateDB.cs",
-              "DocumentMoniker": "C:\\Users\\Student\\Downloads\\proekt\\Arrow\\Arrow\\Data\\Migrations\\20241111151759_UpdateDB.cs",
-              "RelativeDocumentMoniker": "Arrow\\Data\\Migrations\\20241111151759_UpdateDB.cs",
-              "ToolTip": "C:\\Users\\Student\\Downloads\\proekt\\Arrow\\Arrow\\Data\\Migrations\\20241111151759_UpdateDB.cs",
-              "RelativeToolTip": "Arrow\\Data\\Migrations\\20241111151759_UpdateDB.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\PC1-7\\Downloads\\proekt\\Arrow\\Arrow\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "Arrow\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\PC1-7\\Downloads\\proekt\\Arrow\\Arrow\\Models\\Book.cs",
+              "RelativeToolTip": "Arrow\\Models\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-11T15:17:59.466Z",
+              "WhenOpened": "2024-11-11T15:13:26.462Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 7,
+              "Title": "20241111152307_CreateDB1.cs",
+              "DocumentMoniker": "C:\\Users\\PC1-7\\Downloads\\proekt\\Arrow\\Arrow\\Data\\Migrations\\20241111152307_CreateDB1.cs",
+              "RelativeDocumentMoniker": "Arrow\\Data\\Migrations\\20241111152307_CreateDB1.cs",
+              "ToolTip": "C:\\Users\\PC1-7\\Downloads\\proekt\\Arrow\\Arrow\\Data\\Migrations\\20241111152307_CreateDB1.cs",
+              "RelativeToolTip": "Arrow\\Data\\Migrations\\20241111152307_CreateDB1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T15:23:07.877Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "00000000000000_CreateIdentitySchema.cs",
+              "DocumentMoniker": "C:\\Users\\PC1-7\\Downloads\\proekt\\Arrow\\Arrow\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "RelativeDocumentMoniker": "Arrow\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "ToolTip": "C:\\Users\\PC1-7\\Downloads\\proekt\\Arrow\\Arrow\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "RelativeToolTip": "Arrow\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "ViewState": "AgIAAM0AAAAAAAAAAAAAAAsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T15:10:17.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\PC1-7\\Downloads\\proekt\\Arrow\\Arrow\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Arrow\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\PC1-7\\Downloads\\proekt\\Arrow\\Arrow\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Arrow\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T15:11:11.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Users\\PC1-7\\Downloads\\proekt\\Arrow\\Arrow\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "Arrow\\Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Users\\PC1-7\\Downloads\\proekt\\Arrow\\Arrow\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "Arrow\\Controllers\\BooksController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T15:20:09.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20241111151759_UpdateDB.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Downloads\\proekt\\Arrow\\Arrow\\Data\\Migrations\\20241111151759_UpdateDB.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Student\\Downloads\\proekt\\Arrow\\Arrow\\Data\\Migrations\\20241111151759_UpdateDB.cs",
+              "ToolTip": "C:\\Users\\Student\\Downloads\\proekt\\Arrow\\Arrow\\Data\\Migrations\\20241111151759_UpdateDB.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Student\\Downloads\\proekt\\Arrow\\Arrow\\Data\\Migrations\\20241111151759_UpdateDB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T15:17:59.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Student\\Downloads\\proekt\\Arrow\\Arrow\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\PC1-7\\Downloads\\proekt\\Arrow\\Arrow\\appsettings.json",
               "RelativeDocumentMoniker": "Arrow\\appsettings.json",
-              "ToolTip": "C:\\Users\\Student\\Downloads\\proekt\\Arrow\\Arrow\\appsettings.json",
+              "ToolTip": "C:\\Users\\PC1-7\\Downloads\\proekt\\Arrow\\Arrow\\appsettings.json",
               "RelativeToolTip": "Arrow\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-11T15:13:46.766Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-11T15:13:46.766Z"
             }
           ]
         }

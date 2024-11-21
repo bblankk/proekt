@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC1-7\\source\\repos\\FlorynType1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{79376B05-FA6F-445F-AF06-8D04A812E290}|FlorynType1\\FlorynType1.csproj|c:\\users\\pc1-7\\source\\repos\\floryntype1\\floryntype1\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79376B05-FA6F-445F-AF06-8D04A812E290}|FlorynType1\\FlorynType1.csproj|solutionrelative:floryntype1\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79376B05-FA6F-445F-AF06-8D04A812E290}|FlorynType1\\FlorynType1.csproj|c:\\users\\pc1-7\\source\\repos\\floryntype1\\floryntype1\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79376B05-FA6F-445F-AF06-8D04A812E290}|FlorynType1\\FlorynType1.csproj|solutionrelative:floryntype1\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79376B05-FA6F-445F-AF06-8D04A812E290}|FlorynType1\\FlorynType1.csproj|c:\\users\\pc1-7\\source\\repos\\floryntype1\\floryntype1\\models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79376B05-FA6F-445F-AF06-8D04A812E290}|FlorynType1\\FlorynType1.csproj|solutionrelative:floryntype1\\models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79376B05-FA6F-445F-AF06-8D04A812E290}|FlorynType1\\FlorynType1.csproj|c:\\users\\pc1-7\\source\\repos\\floryntype1\\floryntype1\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79376B05-FA6F-445F-AF06-8D04A812E290}|FlorynType1\\FlorynType1.csproj|solutionrelative:floryntype1\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\PC1-7\\source\\repos\\FlorynType1\\FlorynType1\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "FlorynType1\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\PC1-7\\source\\repos\\FlorynType1\\FlorynType1\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "FlorynType1\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T13:36:57.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Genre.cs",
+              "DocumentMoniker": "C:\\Users\\PC1-7\\source\\repos\\FlorynType1\\FlorynType1\\Models\\Genre.cs",
+              "RelativeDocumentMoniker": "FlorynType1\\Models\\Genre.cs",
+              "ToolTip": "C:\\Users\\PC1-7\\source\\repos\\FlorynType1\\FlorynType1\\Models\\Genre.cs",
+              "RelativeToolTip": "FlorynType1\\Models\\Genre.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T13:31:07.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\PC1-7\\source\\repos\\FlorynType1\\FlorynType1\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "FlorynType1\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\PC1-7\\source\\repos\\FlorynType1\\FlorynType1\\Models\\Book.cs",
+              "RelativeToolTip": "FlorynType1\\Models\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T13:30:57.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Author.cs",
+              "DocumentMoniker": "C:\\Users\\PC1-7\\source\\repos\\FlorynType1\\FlorynType1\\Models\\Author.cs",
+              "RelativeDocumentMoniker": "FlorynType1\\Models\\Author.cs",
+              "ToolTip": "C:\\Users\\PC1-7\\source\\repos\\FlorynType1\\FlorynType1\\Models\\Author.cs",
+              "RelativeToolTip": "FlorynType1\\Models\\Author.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T13:24:07.178Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
