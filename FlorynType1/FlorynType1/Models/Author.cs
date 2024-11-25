@@ -1,5 +1,4 @@
-﻿using Humanizer.Localisation;
-
+﻿
 namespace FlorynType1.Models
 {
     public class Author
@@ -8,10 +7,9 @@ namespace FlorynType1.Models
         public string Title { get; set; }
         public string Description { get; set; }
 
-        // Navigation Properties
-        public List<Book> BooksList { get; set; } = new List<Book>();
-        public List<Genre> GenreList { get; set; } = new List<Genre>();
+        // dont work
+        public virtual List<Book> BooksList { get; set; } = new List<Book>();
+        public virtual List<Genre> GenreList { get; set; } = new List<Genre>();
     }
 
 }
-

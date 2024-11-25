@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\PC1-7\\source\\repos\\FlorynType1\\FlorynType1\\FlorynType1.csproj": {}
+    "C:\\Users\\Student\\Downloads\\proekt-main\\FlorynType1\\FlorynType1\\FlorynType1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\PC1-7\\source\\repos\\FlorynType1\\FlorynType1\\FlorynType1.csproj": {
+    "C:\\Users\\Student\\Downloads\\proekt-main\\FlorynType1\\FlorynType1\\FlorynType1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PC1-7\\source\\repos\\FlorynType1\\FlorynType1\\FlorynType1.csproj",
+        "projectUniqueName": "C:\\Users\\Student\\Downloads\\proekt-main\\FlorynType1\\FlorynType1\\FlorynType1.csproj",
         "projectName": "FlorynType1",
-        "projectPath": "C:\\Users\\PC1-7\\source\\repos\\FlorynType1\\FlorynType1\\FlorynType1.csproj",
-        "packagesPath": "C:\\Users\\PC1-7\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PC1-7\\source\\repos\\FlorynType1\\FlorynType1\\obj\\",
+        "projectPath": "C:\\Users\\Student\\Downloads\\proekt-main\\FlorynType1\\FlorynType1\\FlorynType1.csproj",
+        "packagesPath": "C:\\Users\\Student\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Student\\Downloads\\proekt-main\\FlorynType1\\FlorynType1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\PC1-7\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Student\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -43,9 +43,8 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "all"
-        },
-        "SdkAnalysisLevel": "9.0.100"
+          "auditMode": "direct"
+        }
       },
       "frameworks": {
         "net8.0": {
@@ -70,6 +69,10 @@
             "Microsoft.EntityFrameworkCore.Tools": {
               "target": "Package",
               "version": "[8.0.11, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[8.0.7, )"
             }
           },
           "imports": [
@@ -91,7 +94,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
