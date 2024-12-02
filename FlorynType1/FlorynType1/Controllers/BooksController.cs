@@ -26,7 +26,7 @@ namespace FlorynType1.Controllers
             return View(await applicationDbContext.ToListAsync());
         }
 
-        // GET: Books/Details/5
+        // GET:  Books/Details/5
         public async Task<IActionResult> Details(int? id)
         {
             if (id == null)

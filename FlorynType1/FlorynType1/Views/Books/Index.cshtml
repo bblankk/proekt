@@ -6,9 +6,9 @@
 
 <h1>Index</h1>
 
-<p>
-    <a asp-action="Create">Create New</a>
-</p>
+<button>
+    <a asp-action="Create">Make a new table</a>
+</button>
 <table class="table">
     <thead>
         <tr>
@@ -31,7 +31,7 @@
                 @Html.DisplayFor(modelItem => item.Title)
             </td>
             <td>
-                @Html.DisplayFor(modelItem => item.Author.Id)
+                @Html.DisplayFor(modelItem => item.Author.Title)
             </td>
             <td>
                 @Html.DisplayFor(modelItem => item.ReleaseDate)
