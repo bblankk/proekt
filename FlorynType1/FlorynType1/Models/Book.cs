@@ -6,7 +6,7 @@
         public string Title { get; set; }
         public int AuthorId { get; set; } // works
         public virtual Author Author { get; set; } //ts dont work 
-        public DateTime ReleaseDate { get; set; }
+        public DateOnly ReleaseDate { get; set; }
     }
 
 }

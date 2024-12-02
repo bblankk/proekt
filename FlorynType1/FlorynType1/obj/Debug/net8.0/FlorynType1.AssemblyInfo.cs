@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FlorynType1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a233df2dd8925f97fb3e706a9e30b3bb8ed654d3")]
 [assembly: System.Reflection.AssemblyProductAttribute("FlorynType1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FlorynType1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
