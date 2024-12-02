@@ -66,7 +66,7 @@ namespace FlorynType1.Controllers
                 await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));
             }
-            ViewData["AuthorId"] = new SelectList(_context.Author, "Id", "Id", book.AuthorId);
+            ViewData["Author"] = new SelectList(_context.Author, "Id", "Title", book.AuthorId);
             return View(book);
         }
 
@@ -83,7 +83,7 @@ namespace FlorynType1.Controllers
             {
                 return NotFound();
             }
-            ViewData["AuthorId"] = new SelectList(_context.Author, "Id", "Id", book.AuthorId);
+            ViewData["AuthorId"] = new SelectList(_context.Author, "Id", "Title", book.AuthorId);
             return View(book);
         }
 
