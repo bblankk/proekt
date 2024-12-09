@@ -22,8 +22,14 @@ namespace FlorynType1.Controllers
         // GET: Authors
         public async Task<IActionResult> Index()
         {
-            return View(await _context.Author.ToListAsync());
+            int authorCount = await _context.Author.CountAsync();
+
+            ViewData["AuthorCount"] = authorCount;
+            var authors = await _context.Author.ToListAsync();
+
+            return View(authors);
         }
+
 
         // GET: Authors/Details/5
         public async Task<IActionResult> Details(int? id)

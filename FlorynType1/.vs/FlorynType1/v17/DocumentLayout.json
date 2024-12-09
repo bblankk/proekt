@@ -3,64 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Student\\Documents\\proekt\\FlorynType1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{79376B05-FA6F-445F-AF06-8D04A812E290}|FlorynType1\\FlorynType1.csproj|c:\\users\\student\\documents\\proekt\\floryntype1\\floryntype1\\views\\books\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{79376B05-FA6F-445F-AF06-8D04A812E290}|FlorynType1\\FlorynType1.csproj|solutionrelative:floryntype1\\views\\books\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{79376B05-FA6F-445F-AF06-8D04A812E290}|FlorynType1\\FlorynType1.csproj|c:\\users\\student\\documents\\proekt\\floryntype1\\floryntype1\\views\\books\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{79376B05-FA6F-445F-AF06-8D04A812E290}|FlorynType1\\FlorynType1.csproj|solutionrelative:floryntype1\\views\\books\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{79376B05-FA6F-445F-AF06-8D04A812E290}|FlorynType1\\FlorynType1.csproj|c:\\users\\student\\documents\\proekt\\floryntype1\\floryntype1\\views\\books\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{79376B05-FA6F-445F-AF06-8D04A812E290}|FlorynType1\\FlorynType1.csproj|solutionrelative:floryntype1\\views\\books\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{79376B05-FA6F-445F-AF06-8D04A812E290}|FlorynType1\\FlorynType1.csproj|c:\\users\\student\\documents\\proekt\\floryntype1\\floryntype1\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{79376B05-FA6F-445F-AF06-8D04A812E290}|FlorynType1\\FlorynType1.csproj|solutionrelative:floryntype1\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{79376B05-FA6F-445F-AF06-8D04A812E290}|FlorynType1\\FlorynType1.csproj|c:\\users\\student\\documents\\proekt\\floryntype1\\floryntype1\\controllers\\authorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{79376B05-FA6F-445F-AF06-8D04A812E290}|FlorynType1\\FlorynType1.csproj|solutionrelative:floryntype1\\controllers\\authorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{79376B05-FA6F-445F-AF06-8D04A812E290}|FlorynType1\\FlorynType1.csproj|c:\\users\\student\\documents\\proekt\\floryntype1\\floryntype1\\data\\migrations\\20241202131314_booksmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{79376B05-FA6F-445F-AF06-8D04A812E290}|FlorynType1\\FlorynType1.csproj|solutionrelative:floryntype1\\data\\migrations\\20241202131314_booksmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{79376B05-FA6F-445F-AF06-8D04A812E290}|FlorynType1\\FlorynType1.csproj|c:\\users\\student\\documents\\proekt\\floryntype1\\floryntype1\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{79376B05-FA6F-445F-AF06-8D04A812E290}|FlorynType1\\FlorynType1.csproj|solutionrelative:floryntype1\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{79376B05-FA6F-445F-AF06-8D04A812E290}|FlorynType1\\FlorynType1.csproj|c:\\users\\student\\documents\\proekt\\floryntype1\\floryntype1\\data\\migrations\\20241209152312_bookrelated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79376B05-FA6F-445F-AF06-8D04A812E290}|FlorynType1\\FlorynType1.csproj|solutionrelative:floryntype1\\data\\migrations\\20241209152312_bookrelated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{79376B05-FA6F-445F-AF06-8D04A812E290}|FlorynType1\\FlorynType1.csproj|c:\\users\\student\\documents\\proekt\\floryntype1\\floryntype1\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{79376B05-FA6F-445F-AF06-8D04A812E290}|FlorynType1\\FlorynType1.csproj|solutionrelative:floryntype1\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{79376B05-FA6F-445F-AF06-8D04A812E290}|FlorynType1\\FlorynType1.csproj|c:\\users\\student\\documents\\proekt\\floryntype1\\floryntype1\\models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{79376B05-FA6F-445F-AF06-8D04A812E290}|FlorynType1\\FlorynType1.csproj|solutionrelative:floryntype1\\models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{79376B05-FA6F-445F-AF06-8D04A812E290}|FlorynType1\\FlorynType1.csproj|c:\\users\\student\\documents\\proekt\\floryntype1\\floryntype1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{79376B05-FA6F-445F-AF06-8D04A812E290}|FlorynType1\\FlorynType1.csproj|solutionrelative:floryntype1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{79376B05-FA6F-445F-AF06-8D04A812E290}|FlorynType1\\FlorynType1.csproj|c:\\users\\student\\documents\\proekt\\floryntype1\\floryntype1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{79376B05-FA6F-445F-AF06-8D04A812E290}|FlorynType1\\FlorynType1.csproj|solutionrelative:floryntype1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{79376B05-FA6F-445F-AF06-8D04A812E290}|FlorynType1\\FlorynType1.csproj|c:\\users\\student\\documents\\proekt\\floryntype1\\floryntype1\\floryntype1.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{79376B05-FA6F-445F-AF06-8D04A812E290}|FlorynType1\\FlorynType1.csproj|solutionrelative:floryntype1\\floryntype1.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{79376B05-FA6F-445F-AF06-8D04A812E290}|FlorynType1\\FlorynType1.csproj|c:\\users\\student\\documents\\proekt\\floryntype1\\floryntype1\\data\\migrations\\20241122113623_migration1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{79376B05-FA6F-445F-AF06-8D04A812E290}|FlorynType1\\FlorynType1.csproj|solutionrelative:floryntype1\\data\\migrations\\20241122113623_migration1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{79376B05-FA6F-445F-AF06-8D04A812E290}|FlorynType1\\FlorynType1.csproj|c:\\users\\student\\documents\\proekt\\floryntype1\\floryntype1\\controllers\\genrescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{79376B05-FA6F-445F-AF06-8D04A812E290}|FlorynType1\\FlorynType1.csproj|solutionrelative:floryntype1\\controllers\\genrescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{79376B05-FA6F-445F-AF06-8D04A812E290}|FlorynType1\\FlorynType1.csproj|c:\\users\\student\\documents\\proekt\\floryntype1\\floryntype1\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{79376B05-FA6F-445F-AF06-8D04A812E290}|FlorynType1\\FlorynType1.csproj|solutionrelative:floryntype1\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{79376B05-FA6F-445F-AF06-8D04A812E290}|FlorynType1\\FlorynType1.csproj|c:\\users\\student\\documents\\proekt\\floryntype1\\floryntype1\\data\\migrations\\20241122115335_updatedatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{79376B05-FA6F-445F-AF06-8D04A812E290}|FlorynType1\\FlorynType1.csproj|solutionrelative:floryntype1\\data\\migrations\\20241122115335_updatedatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{79376B05-FA6F-445F-AF06-8D04A812E290}|FlorynType1\\FlorynType1.csproj|c:\\users\\student\\documents\\proekt\\floryntype1\\floryntype1\\controllers\\authorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79376B05-FA6F-445F-AF06-8D04A812E290}|FlorynType1\\FlorynType1.csproj|solutionrelative:floryntype1\\controllers\\authorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -70,193 +26,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\Student\\Documents\\proekt\\FlorynType1\\FlorynType1\\Views\\Books\\Edit.cshtml",
-              "RelativeDocumentMoniker": "FlorynType1\\Views\\Books\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\Student\\Documents\\proekt\\FlorynType1\\FlorynType1\\Views\\Books\\Edit.cshtml",
-              "RelativeToolTip": "FlorynType1\\Views\\Books\\Edit.cshtml",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAAB8AAABMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-02T13:18:14.862Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\Student\\Documents\\proekt\\FlorynType1\\FlorynType1\\Views\\Books\\Create.cshtml",
-              "RelativeDocumentMoniker": "FlorynType1\\Views\\Books\\Create.cshtml",
-              "ToolTip": "C:\\Users\\Student\\Documents\\proekt\\FlorynType1\\FlorynType1\\Views\\Books\\Create.cshtml",
-              "RelativeToolTip": "FlorynType1\\Views\\Books\\Create.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-02T13:17:13.597Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "20241202131314_booksmigration.cs",
-              "DocumentMoniker": "C:\\Users\\Student\\Documents\\proekt\\FlorynType1\\FlorynType1\\Data\\Migrations\\20241202131314_booksmigration.cs",
-              "RelativeDocumentMoniker": "FlorynType1\\Data\\Migrations\\20241202131314_booksmigration.cs",
-              "ToolTip": "C:\\Users\\Student\\Documents\\proekt\\FlorynType1\\FlorynType1\\Data\\Migrations\\20241202131314_booksmigration.cs",
-              "RelativeToolTip": "FlorynType1\\Data\\Migrations\\20241202131314_booksmigration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T13:13:15.655Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Student\\Documents\\proekt\\FlorynType1\\FlorynType1\\Views\\Books\\Index.cshtml",
-              "RelativeDocumentMoniker": "FlorynType1\\Views\\Books\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Student\\Documents\\proekt\\FlorynType1\\FlorynType1\\Views\\Books\\Index.cshtml",
-              "RelativeToolTip": "FlorynType1\\Views\\Books\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-02T13:07:04.863Z",
+              "Title": "20241209152312_bookrelated.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\proekt\\FlorynType1\\FlorynType1\\Data\\Migrations\\20241209152312_bookrelated.cs",
+              "RelativeDocumentMoniker": "FlorynType1\\Data\\Migrations\\20241209152312_bookrelated.cs",
+              "ToolTip": "C:\\Users\\Student\\Documents\\proekt\\FlorynType1\\FlorynType1\\Data\\Migrations\\20241209152312_bookrelated.cs",
+              "RelativeToolTip": "FlorynType1\\Data\\Migrations\\20241209152312_bookrelated.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T15:23:14.408Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "20241122115335_UpdateDataBase.cs",
-              "DocumentMoniker": "C:\\Users\\Student\\Documents\\proekt\\FlorynType1\\FlorynType1\\Data\\Migrations\\20241122115335_UpdateDataBase.cs",
-              "RelativeDocumentMoniker": "FlorynType1\\Data\\Migrations\\20241122115335_UpdateDataBase.cs",
-              "ToolTip": "C:\\Users\\Student\\Documents\\proekt\\FlorynType1\\FlorynType1\\Data\\Migrations\\20241122115335_UpdateDataBase.cs",
-              "RelativeToolTip": "FlorynType1\\Data\\Migrations\\20241122115335_UpdateDataBase.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-22T11:53:35.78Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "FlorynType1",
-              "DocumentMoniker": "C:\\Users\\Student\\Documents\\proekt\\FlorynType1\\FlorynType1\\FlorynType1.csproj",
-              "RelativeDocumentMoniker": "FlorynType1\\FlorynType1.csproj",
-              "ToolTip": "C:\\Users\\Student\\Documents\\proekt\\FlorynType1\\FlorynType1\\FlorynType1.csproj",
-              "RelativeToolTip": "FlorynType1\\FlorynType1.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-22T11:40:42.324Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "20241122113623_migration1.cs",
-              "DocumentMoniker": "C:\\Users\\Student\\Documents\\proekt\\FlorynType1\\FlorynType1\\Data\\Migrations\\20241122113623_migration1.cs",
-              "RelativeDocumentMoniker": "FlorynType1\\Data\\Migrations\\20241122113623_migration1.cs",
-              "ToolTip": "C:\\Users\\Student\\Documents\\proekt\\FlorynType1\\FlorynType1\\Data\\Migrations\\20241122113623_migration1.cs",
-              "RelativeToolTip": "FlorynType1\\Data\\Migrations\\20241122113623_migration1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-22T11:36:23.76Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "GenresController.cs",
-              "DocumentMoniker": "C:\\Users\\Student\\Documents\\proekt\\FlorynType1\\FlorynType1\\Controllers\\GenresController.cs",
-              "RelativeDocumentMoniker": "FlorynType1\\Controllers\\GenresController.cs",
-              "ToolTip": "C:\\Users\\Student\\Documents\\proekt\\FlorynType1\\FlorynType1\\Controllers\\GenresController.cs",
-              "RelativeToolTip": "FlorynType1\\Controllers\\GenresController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-22T11:35:44.739Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "BooksController.cs",
-              "DocumentMoniker": "C:\\Users\\Student\\Documents\\proekt\\FlorynType1\\FlorynType1\\Controllers\\BooksController.cs",
-              "RelativeDocumentMoniker": "FlorynType1\\Controllers\\BooksController.cs",
-              "ToolTip": "C:\\Users\\Student\\Documents\\proekt\\FlorynType1\\FlorynType1\\Controllers\\BooksController.cs",
-              "RelativeToolTip": "FlorynType1\\Controllers\\BooksController.cs",
-              "ViewState": "AgIAAHYAAAAAAAAAAAAowHoAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-22T11:35:13.709Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AuthorsController.cs",
-              "DocumentMoniker": "C:\\Users\\Student\\Documents\\proekt\\FlorynType1\\FlorynType1\\Controllers\\AuthorsController.cs",
-              "RelativeDocumentMoniker": "FlorynType1\\Controllers\\AuthorsController.cs",
-              "ToolTip": "C:\\Users\\Student\\Documents\\proekt\\FlorynType1\\FlorynType1\\Controllers\\AuthorsController.cs",
-              "RelativeToolTip": "FlorynType1\\Controllers\\AuthorsController.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-22T11:34:34.56Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\Student\\Documents\\proekt\\FlorynType1\\FlorynType1\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "FlorynType1\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\Student\\Documents\\proekt\\FlorynType1\\FlorynType1\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "FlorynType1\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAcwBAAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-22T11:31:20.233Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Student\\Documents\\proekt\\FlorynType1\\FlorynType1\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "FlorynType1\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\Student\\Documents\\proekt\\FlorynType1\\FlorynType1\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "FlorynType1\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T13:36:57.671Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Genre.cs",
-              "DocumentMoniker": "C:\\Users\\Student\\Documents\\proekt\\FlorynType1\\FlorynType1\\Models\\Genre.cs",
-              "RelativeDocumentMoniker": "FlorynType1\\Models\\Genre.cs",
-              "ToolTip": "C:\\Users\\Student\\Documents\\proekt\\FlorynType1\\FlorynType1\\Models\\Genre.cs",
-              "RelativeToolTip": "FlorynType1\\Models\\Genre.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T13:31:07.954Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Book.cs",
-              "DocumentMoniker": "C:\\Users\\Student\\Documents\\proekt\\FlorynType1\\FlorynType1\\Models\\Book.cs",
-              "RelativeDocumentMoniker": "FlorynType1\\Models\\Book.cs",
-              "ToolTip": "C:\\Users\\Student\\Documents\\proekt\\FlorynType1\\FlorynType1\\Models\\Book.cs",
-              "RelativeToolTip": "FlorynType1\\Models\\Book.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T13:30:57.729Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 1,
               "Title": "Author.cs",
               "DocumentMoniker": "C:\\Users\\Student\\Documents\\proekt\\FlorynType1\\FlorynType1\\Models\\Author.cs",
               "RelativeDocumentMoniker": "FlorynType1\\Models\\Author.cs",
               "ToolTip": "C:\\Users\\Student\\Documents\\proekt\\FlorynType1\\FlorynType1\\Models\\Author.cs",
               "RelativeToolTip": "FlorynType1\\Models\\Author.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABPAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T13:24:07.178Z",
+              "WhenOpened": "2024-12-09T15:21:27.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\proekt\\FlorynType1\\FlorynType1\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "FlorynType1\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Student\\Documents\\proekt\\FlorynType1\\FlorynType1\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "FlorynType1\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-09T15:05:19.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthorsController.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\proekt\\FlorynType1\\FlorynType1\\Controllers\\AuthorsController.cs",
+              "RelativeDocumentMoniker": "FlorynType1\\Controllers\\AuthorsController.cs",
+              "ToolTip": "C:\\Users\\Student\\Documents\\proekt\\FlorynType1\\FlorynType1\\Controllers\\AuthorsController.cs",
+              "RelativeToolTip": "FlorynType1\\Controllers\\AuthorsController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T15:05:13.644Z",
               "EditorCaption": ""
             }
           ]
