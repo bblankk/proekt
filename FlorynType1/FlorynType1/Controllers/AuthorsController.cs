@@ -24,7 +24,7 @@ namespace FlorynType1.Controllers
         {
             int authorCount = await _context.Author.CountAsync();
 
-            ViewData["AuthorCount"] = authorCount;
+           /* ViewData["AuthorCount"] = authorCount;*/
             var authors = await _context.Author.ToListAsync();
 
             return View(authors);
