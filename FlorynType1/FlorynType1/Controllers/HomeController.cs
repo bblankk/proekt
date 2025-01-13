@@ -15,21 +15,38 @@ namespace FlorynType1.Controllers
     {
         private readonly ILogger<HomeController> _logger;
         private readonly ApplicationDbContext _context;  // Declare the DbContext
-
+        public int AuthorCount
+        {
+            get { return _context.Author.Count(); }
+            private set { }
+        }
         // Inject the DbContext via constructor
         public HomeController(ILogger<HomeController> logger, ApplicationDbContext context)
         {
             _logger = logger;
             _context = context;  // Assign DbContext to the private field
+
+            // Pass the author count to the View
+            // 
+
+
         }
 
         public IActionResult Index()
         {
+            int authorCount = _context.Author.Count();
+            int bookCount = _context.Book.Count();
+            ViewData["AuthorCount"] = authorCount;
+            ViewData["BookCount"] = bookCount;
+
             return View();
         }
 
+
+
         public IActionResult Privacy()
         {
+
             return View();
         }
 
@@ -52,6 +69,7 @@ namespace FlorynType1.Controllers
 
             // Pass the author count to the View
             ViewData["AuthorCount"] = authorCount;
+
 
             // Pass the list of author names to the View
             return View(authorNames);
